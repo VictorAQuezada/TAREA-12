@@ -1,0 +1,15 @@
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.csproj.AssemblyReference.cache
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.AssemblyInfoInputs.cache
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.AssemblyInfo.cs
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.csproj.CoreCompileInputs.cache
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\bin\Debug\netstandard2.0\LogiApp.deps.json
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\bin\Debug\netstandard2.0\LogiApp.dll
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\bin\Debug\netstandard2.0\ref\LogiApp.dll
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\bin\Debug\netstandard2.0\LogiApp.pdb
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.dll
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\refint\LogiApp.dll
+C:\Users\Shint\Desktop\APPS\LogiApp\LogiApp\obj\Debug\netstandard2.0\LogiApp.pdb
